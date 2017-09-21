@@ -1,0 +1,20 @@
+These are the numbers that should result from running finalproject.py
+
+housesLayer = ParcelsTier1
+count = 57928
+bearLayer = BearTier2
+housesLayer = ParcelsTier2
+count = 30358
+bearLayer = BearTier3
+housesLayer = ParcelsTier3
+count = 13297
+bearLayer = BearTier4
+housesLayer = ParcelsTier4
+count = 5912
+
+======================================================
+Cost for each bear can = $371.00
+Total costs for tier 1 = $21,491,288.00
+Total costs for tier 2 = $11,262,818.00
+Total costs for tier 3 = $4,933,187.00
+Total costs for tier 4 = $2,193,352.00
