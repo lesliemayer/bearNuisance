@@ -12,12 +12,9 @@ import sys
 # Import arcpy module
 import arcpy
 #import numpy
-#import HelloWorld  # looks for a file called "HelloWorld"
 
 # import BearNuisance functions
 import BearNuisance
-
-#HelloWorld.helloworld()
 
 # Set Geoprocessing environments
 arcpy.env.workspace = "C:\\Users\\mdeeds\\Documents\\Mayer\\FRCC\\GIS210_Intermediate\\FinalProject\\BearNuisance.gdb"
